@@ -1,0 +1,26 @@
+{
+  "name": "code-challenge-eric",
+  "version": "1.0.0",
+  "description": "Point scoring tool for City League Soccer",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cosrnos/code-challenge-eric.git"
+  },
+  "author": "Eric Nolte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cosrnos/code-challenge-eric/issues"
+  },
+  "homepage": "https://github.com/Cosrnos/code-challenge-eric#readme",
+  "devDependencies": {
+    "jest": "^18.1.0"
+  }
+}
